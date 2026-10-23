@@ -1,0 +1,25 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell / Logs / Dumps
+*.log
+*.tmp
+*.bak
+*.dmp
+*.swp
+
+# Sensitive / User-specific
+*.key
+*.pem
+id_rsa
+id_ed25519
+*.pfx
+
+# VS Code / JetBrains / IDEs
+.vscode/
+.idea/
+*.suo
+*.user
